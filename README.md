@@ -7,13 +7,6 @@ Welcome to my GitHub profile. I'm a passionate software engineer with a knack fo
 
 I'm currently pursuing a Bachelor of Technology in Electrical and Electronics Engineering at Guru Gobind Singh Indraprastha University. With experience in various programming languages and a strong interest in software development, I’m always looking to learn and grow. 
 
-## 🔧 Skills & Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,sass"/>
-  </a>
-</p>
 
 
 
@@ -22,12 +15,22 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 - **Qt for UI Development**: Exploring how to use Qt for creating intuitive user interfaces.
 - **Cloud Computing**: Gaining insights into data integration and cloud solutions.
 
+## <h1>Languages and Tools 🛠<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,sass&perline=14"/>
+  </a>
+</p>
+
+------
+## <h1>Leetcode Stats 🤨<h1>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Codensity_30?theme=unicorn&font=Raleway&ext=contest)
+
+
 ## 📈 GitHub Stats
 
 ![Nemish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
-# Leetcode Status
-![Leetcode Stats](https://leetcode.com/u/NIKKU29/)
 
 ## 📣 Contact Me
 
