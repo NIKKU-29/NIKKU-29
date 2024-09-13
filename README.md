@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm a passionate software engineer with a knack fo
 I'm currently pursuing a Bachelor of Technology in Electrical and Electronics Engineering at Guru Gobind Singh Indraprastha University. With experience in various programming languages and a strong interest in software development, I’m always looking to learn and grow. 
 
 ## 🔧 Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,sass)](https://skillicons.dev)
 
 ## 🚀 Current Projects
 
