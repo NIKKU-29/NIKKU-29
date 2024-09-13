@@ -1,5 +1,3 @@
-Got it! Here's a README.md template tailored for your GitHub profile. This will help showcase your skills, projects, and interests in a visually appealing and engaging way.
-
 ---
 
 # Hi there, I'm Nemish Sharma! 👋
@@ -48,5 +46,3 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 I’m a fan of [wine](https://yourblog.com/wine-blog) and love exploring new varieties! 🍷
 
 ---
-
-Feel free to adjust the links, content, and sections to better reflect your personal achievements and interests. If you have any specific elements you'd like to include or need help with anything else, just let me know!
