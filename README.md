@@ -27,7 +27,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 ![Nemish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 # Leetcode Status
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/NIKKU29/)
+[![Leetcode Stats](https://leetcode.com/u/NIKKU29/)](https://leetcode.com/u/NIKKU29/)
 
 ## 📣 Contact Me
 
