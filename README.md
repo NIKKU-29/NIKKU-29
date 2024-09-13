@@ -17,7 +17,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 </p>
 
 
-
+------
 
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
 
