@@ -15,13 +15,9 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
   </a>
 </p>
 
-## 🚀 Current Projects
 
-- **[Vines & Co.](https://github.com/yourusername/vines-and-co)**: An interactive wine showcase website with elegant design and smooth animations.
-- **[Aeroxpert](https://github.com/yourusername/aeroxpert)**: A streamlined flight booking system developed using C++ and SQL.
-- **[Wine Bottle Transport](https://github.com/yourusername/wine-bottle-transport)**: A project focused on optimizing logistics and transport for wine bottles.
 
-## 🛠️ Technologies I’m Exploring
+## 🛠️ I’m Exploring
 
 - **Qt for UI Development**: Exploring how to use Qt for creating intuitive user interfaces.
 - **Cloud Computing**: Gaining insights into data integration and cloud solutions.
