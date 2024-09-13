@@ -18,9 +18,6 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
 
 
-## 📈 GitHub Stats
-
-![Nemish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
 
