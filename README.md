@@ -22,7 +22,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
 
 ------
-## <h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)🤨<h1>
+ <h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)🤨<h1>
 ------
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NIKKU29?ext=contest)
 ------
