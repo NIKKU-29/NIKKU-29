@@ -22,7 +22,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
 
 ------
-## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=codensity30&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=NIKKU-29&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left" style="display:flex;gap:50px">
 
