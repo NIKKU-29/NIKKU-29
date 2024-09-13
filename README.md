@@ -37,8 +37,11 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
   <a href="https://www.linkedin.com/in/nemish-sharma-a31b7821b/">
    <img src="https://skillicons.dev/icons?i=linkedin&perline=14"/>
   </a>
-  <a href="https://www.linkedin.com/in/nemish-sharma-a31b7821b/">
+  <a href="https://mail.google.com/mail/nemishsbce29%40gmail.com">
    <img src="https://skillicons.dev/icons?i=gmail&perline=14"/>
+  </a>
+   <a href="https://www.linkedin.com/in/nemish-sharma-a31b7821b/">
+   <img src="https://skillicons.dev/icons?i=twitter&perline=14"/>
   </a>
 
 
