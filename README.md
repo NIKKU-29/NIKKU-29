@@ -27,7 +27,8 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 <p align="center" style="display:flex;gap:50px">
 
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=dark#gh-dark-mode-only" /> 
-
+</p>
+<p>
   <img width="48%"  height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=NIKKU-29&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
