@@ -30,8 +30,11 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
   <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=NIKKU-29&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 ------
-## <h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)<h1>
+
+
+#<h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)<h1>
 ![LeetCode Stats 🤨](https://leetcard.jacoblin.cool/NIKKU29?ext=contest)
 ------
 
