@@ -9,6 +9,11 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
 ## 🔧 Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,sass)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🚀 Current Projects
 
