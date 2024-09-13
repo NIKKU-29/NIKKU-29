@@ -34,9 +34,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 - **Cloud Computing**: Gaining insights into data integration and cloud solutions.
 
 ## 📣 Contact Me
-
-- **LinkedIn**:
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/nemish-sharma-a31b7821b/">
    <img src="https://skillicons.dev/icons?i=linkedin&perline=14"/>
   </a>
 
