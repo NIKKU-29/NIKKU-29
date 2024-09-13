@@ -11,7 +11,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
 ## <h1>Languages and Tools 🛠<h1>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/nemish-sharma-a31b7821b/">
    <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,mongodb,react,pug,sass&perline=14"/>
   </a>
 </p>
