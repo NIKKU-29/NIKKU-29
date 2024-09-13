@@ -26,7 +26,7 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
 ------
 ## <h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)🤨<h1>
-![LeetCode Stats](https://leetcard.jacoblin.cool/NIKKU29?theme=unicorn&font=Raleway&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NIKKU29?ext=heatmap)
 
 ## 🛠️ I’m Exploring
 
