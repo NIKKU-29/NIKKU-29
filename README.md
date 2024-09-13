@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nemish Sharma! s👋
+# Hi there, I'm Nemish Sharma! 👋
 
 Welcome to my GitHub profile. I'm a passionate software engineer with a knack for problem-solving and a love for coding. Here's a bit more about me and the projects I'm working on.
 
