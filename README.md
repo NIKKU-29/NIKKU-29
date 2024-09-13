@@ -32,13 +32,5 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
-## 📝 Blog Posts
-
-- **[Improving Code Speed in iOS Development](https://yourblog.com/improving-code-speed-ios-development)**
-- **[Exploring the MERN Stack: A 30-Day Roadmap](https://yourblog.com/mern-stack-roadmap)**
-
-## 🎉 Fun Fact
-
-I’m a fan of [wine](https://yourblog.com/wine-blog) and love exploring new varieties! 🍷
 
 ---
