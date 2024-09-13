@@ -22,7 +22,14 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
 
 ------
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=aqua)
+## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=codensity30&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="center" style="display:flex;gap:50px">
+
+  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=dark#gh-dark-mode-only" /> 
+
+  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=NIKKU-29&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 ------
 ## <h1>[Leetcode Stats](https://leetcode.com/u/NIKKU29)<h1>
 ![LeetCode Stats 🤨](https://leetcard.jacoblin.cool/NIKKU29?ext=contest)
