@@ -35,7 +35,10 @@ I'm currently pursuing a Bachelor of Technology in Electrical and Electronics En
 
 ## 📣 Contact Me
 
-- **LinkedIn**: [Nemish Sharma](https://www.linkedin.com/in/yourlinkedin)
+- **LinkedIn**: [Nemish Sharma]
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linkedin&perline=14"/>
+  </a>
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
