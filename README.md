@@ -1,5 +1,8 @@
 
 # Hi there, I'm Nemish Sharma! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=5100&color=F714ED&lines=An+Enthusiastic+Frontend+Developer;A+Passionate+Designer;Deep+Compassion+For+Android+Development" alt="Typing SVG">
+</div>
 
 Welcome to my GitHub profile. I'm a passionate software engineer with a knack for problem-solving and a love for coding. Here's a bit more about me and the projects I'm working on.
 
