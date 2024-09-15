@@ -1,5 +1,8 @@
+<div align=center>
+ <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=5100&color=white&lines=;Develope;Designe;Express;Code" alt="Typing SVG"> 
+<div>
 
-# I'm Nemish Sharma!  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=5100&color=white&lines=;Develope;Designe;Express;Code" alt="Typing SVG"> 👋 
+# I'm Nemish Sharma!👋 
 
 
 Welcome to my GitHub profile. I'm a passionate software engineer with a knack for problem-solving and a love for coding. Here's a bit more about me and the projects I'm working on.
