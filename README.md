@@ -1,7 +1,7 @@
 
 # I'm Nemish Sharma! 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=5100&color=white&lines=;A+Frontend+Developer;A+Designer;Deep+Compassion+For+Android+Development" alt="Typing SVG">
+  I <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=5100&color=white&lines=;Develope;Designe;Express;Code" alt="Typing SVG">
 
 </div>
 
