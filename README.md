@@ -1,5 +1,5 @@
 
- <img align=center src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=5100&color=F0F6FC&lines=;Develope;Designe;Express;Code" alt="Typing SVG"> 
+ <img align=center src="https://readme-typing-svg.herokuapp.com?font=poppins&size=35&duration=5100&color=F0F6FC&lines=;Develope;Designe;Express;Code" alt="Typing SVG"> 
 
 # I'm Nemish Sharma!👋 
 
