@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=35&duration=5100&color=A100FF&center=true&vCenter=true&width=800&height=50&lines=Hello+World!;I'm+Nemish+Sharma;Developer;Designer;Explorer;Coder" alt="Typing SVG" />
 
 <!-- Floating Astronaut Animation -->
-<img align="center" src="https://raw.githubusercontent.com/NIKKU-29/NIKKU-29/main/github-metrics.svg" alt="Metrics" width="500">
+<img src="https://metrics.lecoq.io/NIKKU-29?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1" alt="GitHub Metrics" width="500">
+
 
 </div>
 
