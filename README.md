@@ -59,8 +59,9 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=8b00ff)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=8b00ff" alt="GitHub Activity Graph">
 </div>
+
 
 # 🌟 Featured Projects
 <!-- Project Cards with Hover Effects -->
