@@ -25,9 +25,12 @@
 - ⚡ Fun fact: **I love retro gaming and pixel art!**
 
 <!-- 3D GitHub Stats -->
-<div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKKU-29&theme=vue"/>
+
+<div align="left">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKKU-29&theme=vue" style="transform: scaleX(-1);"/>
 </div>
+
+This will **flip the image horizontally**, making it a mirrored version. 🚀 Let me know if you need any other modifications!
 
 # 🛠 Tech Stack
 <p align="left">
