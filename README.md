@@ -30,7 +30,7 @@
 </div>
 
 # 🛠 Tech Stack
-<p align="center">
+<p align="left">
   <!-- Animated Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,ts,react,nextjs,nodejs,py,qt,mongodb,postgres,redis,aws,git,github,figma,ps&perline=10&theme=dark"/>
@@ -58,16 +58,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=8b00ff" alt="GitHub Activity Graph">
 </div>
 
-# 🌟 Featured Projects  
-<!-- Custom Project Badges -->
-<p align="center">
-  <a href="https://github.com/NIKKU-29/project-one">
-    <img src="https://img.shields.io/badge/Project%201-%2300bcd4.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project One">
-  </a>
-  <a href="https://github.com/NIKKU-29/project-two">
-    <img src="https://img.shields.io/badge/Project%202-%23ff4081.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project Two">
-  </a>
-</p>
+
 
 <!-- Spotify Playing Animation -->
 <!-- Spotify Section -->
