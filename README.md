@@ -9,13 +9,11 @@
 </div>
 
 <!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NIKKU-29&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views">
-  
-</p>
+
 
 <!-- Animated Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ <img src="https://komarev.com/ghpvc/?username=NIKKU-29&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views">
 
 # 💫 About Me
 ```diff
