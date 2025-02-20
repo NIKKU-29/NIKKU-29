@@ -9,7 +9,7 @@
 </div>
 
 <!-- Profile Views Counter -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=NIKKU-29&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views">
   <a href="https://wakatime.com/@NIKKU-29">
     <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="WakaTime">
