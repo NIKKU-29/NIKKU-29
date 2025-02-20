@@ -1,6 +1,3 @@
-Here's an enhanced version of your GitHub README with more animations, interactive elements, and better visual organization:
-
-```md
 <div align="center">
   
 <!-- Animated Header -->
@@ -77,8 +74,11 @@ Here's an enhanced version of your GitHub README with more animations, interacti
 </div>
 
 <!-- Spotify Playing Animation -->
+<!-- Spotify Section -->
 <div align="center">
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=8b00ff&bar_color_cover=true)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
+
 </div>
 
 <!-- Coding Time Stats -->
