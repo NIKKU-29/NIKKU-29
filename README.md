@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=35&duration=5100&color=A100FF&center=true&vCenter=true&width=800&height=50&lines=Hello+World!;I'm+Nemish+Sharma;Developer;Designer;Explorer;Coder" alt="Typing SVG" />
 
 <!-- Floating Astronaut Animation -->
-<img src="https://metrics.lecoq.io/NIKKU-29?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1" alt="GitHub Metrics" width="500">
 
 
 </div>
@@ -12,9 +11,7 @@
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NIKKU-29&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views">
-  <a href="https://wakatime.com/@NIKKU-29">
-    <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="WakaTime">
-  </a>
+  
 </p>
 
 <!-- Animated Divider -->
