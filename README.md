@@ -60,12 +60,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=8b00ff" alt="GitHub Activity Graph">
 </div>
 
+<p align="center">
+  <a href="https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
+  </a>
+</p>
 
-
-<!-- Spotify Playing Animation -->
-<!-- Spotify Section -->
-<div align="center">
-[![Spotify](https://spotify-badge-ecru.vercel.app/api/now-playing?uid=312owpmecelrmx75z54hn742c32m)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
 
 
 # 📬 Connect With Me
