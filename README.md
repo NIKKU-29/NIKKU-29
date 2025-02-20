@@ -65,11 +65,8 @@
 <!-- Spotify Playing Animation -->
 <!-- Spotify Section -->
 <div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
+[![Spotify](https://spotify-badge-ecru.vercel.app/api/now-playing?uid=312owpmecelrmx75z54hn742c32m)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
 
-</div>
-s
 
 # 📬 Connect With Me
 <!-- Animated Social Links -->
