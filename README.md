@@ -38,7 +38,7 @@
 </p>
 
 <!-- Animated Coding Stats -->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKKU-29&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
 </div>
@@ -63,8 +63,8 @@
 <!-- Spotify Playing Animation -->
 <!-- Spotify Section -->
 <div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=8b00ff&bar_color_cover=true)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
+  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
 
 </div>
 
