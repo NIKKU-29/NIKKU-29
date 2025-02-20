@@ -67,11 +67,7 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312owpmecelrmx75z54hn742c32m&cover_image=true&theme=novatorem)](https://open.spotify.com/user/312owpmecelrmx75z54hn742c32m)
 
 </div>
-
-<!-- Coding Time Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NIKKU-29&theme=radical&layout=compact&langs_count=6" alt="WakaTime Stats"/>
-</div>
+s
 
 # 📬 Connect With Me
 <!-- Animated Social Links -->
