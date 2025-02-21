@@ -35,7 +35,7 @@
 <p align="left">
   <!-- Animated Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,ts,react,nextjs,nodejs,py,qt,mongodb,postgres,redis,aws,git,github,figma,ps&perline=10&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cmake,html,css,js,ts,react,nextjs,nodejs,py,qt,mongodb,postgres,aws,git,github,ps&perline=10&theme=dark"/>
   </a>
 </p>
 
