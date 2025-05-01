@@ -31,7 +31,7 @@
 
 ## 💫 About Me
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🚀 Passionate Software Engineer | UI/UX Enthusiast | Continuous Learner
 - 🔭 Currently exploring Qt Framework & Cloud Computing
@@ -43,14 +43,22 @@
 
 <br>
 
-<!-- NEW: Animated Metrics and Stats Dashboard -->
+## 🔥 Contribution Streak & Detailed Statistics
+
 <div align="center">
+  <!-- Enhanced GitHub Streak Stats with more details -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKKU-29&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  
+  <!-- NEW: Contribution calendar heatmap showing actual contributions -->
+  <a href="https://github.com/NIKKU-29">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NIKKU-29&repo=NIKKU-29&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Profile Repository" width="49%" />
+  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=NIKKU-29&limit=5&theme=dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="49%" />
 </div>
 
-<!-- Animated Neon Line Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- NEW: Cooler Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -93,12 +101,53 @@
   </p>
 </div>
 
-<!-- NEW: 3D Contribution animation -->
+<!-- NEW: Better Snake Contribution animation -->
 <div align="center">
-  <a href="https://github.com/NIKKU-29/NIKKU-29">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIKKU-29/NIKKU-29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIKKU-29/NIKKU-29/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NIKKU-29/NIKKU-29/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<!-- NEW: Clear contribution calendar (independent from snake) -->
+<div align="center">
+  <h3>📅 Full Contribution Calendar</h3>
+  <img src="https://github-readme-contribution-stats.vercel.app/api/?username=NIKKU-29&theme=dark" alt="Contribution Calendar" width="80%" />
+</div>
+
+<!-- Setup instructions in comments (only visible in README source):
+To set up the snake animation, create a file .github/workflows/snake.yml with the content:
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
 
 <!-- Animated Neon Line Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -126,11 +175,44 @@
 <!-- Animated Neon Line Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📈 Activity Graph
+## 📈 Activity Graph & Contributions
 
 <div align="center">
   <!-- NEW: Improved activity graph with better colors and animation -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKKU-29&theme=high-contrast&bg_color=0D1117&color=A100FF&line=A100FF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  
+  <!-- NEW: Cool 3D isometric calendar -->
+  <img src="https://github.com/NIKKU-29/NIKKU-29/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Calendar" />
+  
+  <!-- Setup instructions in comments (only visible in README source):
+  To set up the 3D contribution calendar, create a file .github/workflows/profile-3d.yml with the content:
+  
+  name: 3D Contribution Calendar
+  
+  on:
+    schedule:
+      - cron: "0 */24 * * *" # Runs every 24 hours
+    workflow_dispatch:
+  
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      name: Generate 3D Contribution Calendar
+      steps:
+        - uses: actions/checkout@v3
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+            SETTING_JSON: profile-3d-contrib/profile-night-rainbow.json
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "generated 3D contribution calendar"
+            git push
+  -->
 </div>
 
 <!-- Animated Neon Line Divider -->
