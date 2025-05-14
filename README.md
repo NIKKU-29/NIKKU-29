@@ -44,18 +44,24 @@
 ## 🔥 Contribution Streak & Stats
 
 <div align="center">
-  <!-- Enhanced GitHub Streak Stats with more details -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKKU-29&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+
+<!-- Royal Blue GitHub Streak Stats -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NIKKU-29&theme=blueberry&hide_border=true&type=png" alt="GitHub Streak" /></a> />
+
+
+<!-- Royal Blue GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=default&icon_color=0047AB&title_color=0047AB&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="49%" />
+
 </div>
 
 <!-- Simple Calendar View -->
-<h3 align="center">📅 Contribution Calendar</h3>
-<p align="center">
+<h2 align="center">📅 Contribution Calendar</h2>
+<div align="center">
   <a href="https://github.com/NIKKU-29">
-    <img src="https://ghchart.rshah.org/A100FF/NIKKU-29" alt="NIKKU-29's GitHub Contribution Chart" width="100%"/>
+    <img src="https://ghchart.rshah.org/0047AB/NIKKU-29" alt="NIKKU-29's GitHub Contribution Chart" width="100%"/>
   </a>
-</p>
+</div>
+
 
 <!-- NEW: Cooler Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
