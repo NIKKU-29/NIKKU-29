@@ -159,11 +159,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" width="90%" />
 </div>
 
-<!-- NEW: WakaTime Stats - Shows coding activity -->
-<div align="center">
-  <h2>⏱️ Weekly Coding Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NIKKU-29&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" width="70%" />
-</div>
 
 <!-- NEW: Animated Footer -->
 <div align="center">
@@ -171,10 +166,7 @@
   
   <h2>Thanks for visiting! 👋</h2>
   <p>⭐️ From <a href="https://github.com/NIKKU-29">Nemish Sharma</a></p>
-  
-  <!-- NEW: Visitor badge -->
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NIKKU-29.NIKKU-29&style=for-the-badge&color=A100FF&logo=github&text=Visitors" alt="Visitors Badge" />
-</div>
+
 
 <!-- NEW: Custom SVG wave footer -->
 <svg width="100%" height="150" fill="none" xmlns="http://www.w3.org/2000/svg">
