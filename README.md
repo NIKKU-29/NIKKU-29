@@ -43,16 +43,14 @@
 
 ## 🔥 Contribution Streak & Stats
 
+## 🔥 Contribution Streak & Stats
+
 <div align="center">
-
-<!-- Royal Blue GitHub Streak Stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NIKKU-29&theme=blueberry&hide_border=true&type=png" alt="GitHub Streak" /></a> />
-
-
-<!-- Royal Blue GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=default&icon_color=0047AB&title_color=0047AB&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="49%" />
-
+  <!-- Enhanced GitHub Streak Stats with more details -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKKU-29&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIKKU-29&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
 </div>
+
 
 <!-- Simple Calendar View -->
 <h2 align="center">📅 Contribution Calendar</h2>
