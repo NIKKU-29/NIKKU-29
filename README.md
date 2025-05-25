@@ -43,8 +43,6 @@
 
 ## 🔥 Contribution Streak & Stats
 
-## 🔥 Contribution Streak & Stats
-
 <div align="center">
   <!-- Enhanced GitHub Streak Stats with more details -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKKU-29&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub Streak Stats" width="49%" />
