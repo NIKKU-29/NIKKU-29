@@ -42,6 +42,8 @@
 <br>
 
 ## 🔥 Contribution Streak & Stats
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nemish-sharma1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nemish-sharma1?trk=profile-badge">Nemish Sharma</a></div>
+              
 
 <div align="center">
   <!-- Enhanced GitHub Streak Stats with more details -->
